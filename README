@@ -1,0 +1,24 @@
+The UCaPE repository conatins the sources of all the examples and exercises
+used in the book "Using Concurrency and Parallelism Effectively parts i & ii"
+by Jon Kerridge published by Bookboon, free of charge.
+
+http://bookboon.com/en/using-concurrency-and-parallelism-effectively-i-ebook
+http://bookboon.com/en/using-concurrency-and-parallelism-effectively-ii-ebook
+
+In order to use these source files you will need to put them into your IDE, which
+will need Apache Groovy enabled( http://groovy-lang.org/download.html );
+and associate them with  the following libraries
+
+jcsp from
+groovyJCSP from https://github.com/JonKerridge/groovyJCSP
+phwclasses and junit from the folder libraryJars.
+
+You will need to ensure that the java and groovy version of the libraries match
+with the versions you are using in your IDE.  Jars from JCSP and groovyJCSP have been created for
+various versions and combinations of Java and Groovy.
+
+It should be noted that the exercises package imports code from the examples package
+and this will need to be maintained in your IDE.
+
+The line numbers shown in the code samples in the books will line up with the line numbers in your IDE.
+
