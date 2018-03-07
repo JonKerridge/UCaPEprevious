@@ -22,3 +22,7 @@ and this will need to be maintained in your IDE.
 
 The line numbers shown in the code samples in the books will line up with the line numbers in your IDE.
 
+A simple test to ensure that the software has been installed correctly is:
+navigate from examples> src> c02> RunHelloWorld.groovy, which is a runnable script
+
+Use the IDE to run the script and 'Hello World!' should appear in the console (without the ').
