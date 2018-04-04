@@ -4,7 +4,7 @@ package c02
 // Let's Do It In Parallel
 
 
-import phw.util.*
+import jcsp.userIO.*
 import jcsp.lang.*
   
 class Producer implements CSProcess {

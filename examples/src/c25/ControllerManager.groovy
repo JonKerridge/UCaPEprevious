@@ -6,9 +6,9 @@ import jcsp.util.*
 import groovyJCSP.*
 import java.awt.*
 import java.awt.Color.*
-import jcsp.net.*;
-import jcsp.net.tcpip.*;
-import jcsp.net.mobile.*;
+import jcsp.net2.*;
+import jcsp.net2.tcpip.*;
+import jcsp.net2.mobile.*;
 
 // modify this so that the controller asks the min and max number of pairs
 // then generates them randomly

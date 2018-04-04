@@ -4,7 +4,7 @@ package c18.net
 // Let's Do It In Parallel
 
 import jcsp.lang.*
-import jcsp.net.*
+import jcsp.net2.*
 
 
 class TripNode implements CSProcess{

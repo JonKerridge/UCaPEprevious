@@ -4,8 +4,8 @@ package c18.net
 // Let's Do It In Parallel
 import jcsp.lang.*
 import groovyJCSP.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
  
 class BackAgent implements MobileAgent {  
 	

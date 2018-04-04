@@ -5,7 +5,7 @@ package c10
 
 import jcsp.lang.*
 import groovyJCSP.*
-import phw.util.*
+import jcsp.userIO.*
 
 println "starting v2...."
 def nodes = Ask.Int ( "Number of Nodes ? - ", 3, 10 )

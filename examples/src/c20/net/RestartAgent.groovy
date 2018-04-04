@@ -1,7 +1,7 @@
 package c20.net;
 
-import jcsp.net.mobile.*
-import jcsp.net.*
+import jcsp.net2.mobile.*
+import jcsp.net2.*
 import jcsp.lang.*
 import groovyJCSP.*
 

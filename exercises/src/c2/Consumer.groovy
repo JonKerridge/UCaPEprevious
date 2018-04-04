@@ -1,6 +1,6 @@
 package c2
  
-import phw.util.*
+import jcsp.userIO.*
 import jcsp.lang.*
 
 

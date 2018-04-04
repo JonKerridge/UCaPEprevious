@@ -2,10 +2,10 @@ package c18.net
 // copyright 2012-13 Jon Kerridge
 // Let's Do It In Parallel
 import jcsp.lang.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
 import groovyJCSP.*
-import phw.util.*
+import jcsp.userIO.*
 
 def int nodeId = Ask.Int ("Node identification (2..9) ? ", 2, 9)
 def Boolean last = Ask.Boolean ("Is this the last node? - ( y or n):")

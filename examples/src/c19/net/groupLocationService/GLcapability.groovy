@@ -1,7 +1,7 @@
 package c19.net.groupLocationService
 
 import jcsp.lang.*
-import jcsp.net.*
+import jcsp.net2.*
 import netObjects.*
 import groovyJCSP.*
 

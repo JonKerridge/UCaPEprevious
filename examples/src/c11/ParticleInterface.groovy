@@ -3,7 +3,7 @@ package c11
 // Let's Do It In Parallel
 import groovyJCSP.*
 import jcsp.lang.*
-import phw.util.*
+import jcsp.userIO.*
 import jcsp.util.*
 import jcsp.awt.*
 

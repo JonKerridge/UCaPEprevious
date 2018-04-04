@@ -5,7 +5,7 @@ package c09
 import jcsp.lang.*
 import groovyJCSP.*
 import groovyJCSP.plugAndPlay.*
-import phw.util.Ask
+import jcsp.userIO.Ask
 
 def sources = Ask.Int ("Number of event sources between 1 and 9 ? ", 1, 9)
 

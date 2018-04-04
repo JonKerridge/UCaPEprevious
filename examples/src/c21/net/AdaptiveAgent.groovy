@@ -1,6 +1,6 @@
 package c21.net
 
-import jcsp.net.*
+import jcsp.net2.*
 import jcsp.lang.*
 import groovyJCSP.*
  

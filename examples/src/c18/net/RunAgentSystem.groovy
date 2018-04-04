@@ -5,7 +5,7 @@ package c18.net
 
 import groovyJCSP.*
 import jcsp.lang.*
-import phw.util.*
+import jcsp.userIO.*
  
 def int nodes = Ask.Int ("Number of Nodes ? ", 1, 9)
 def int iterations = Ask.Int ("Number of Iterations ? ", 1, 9)

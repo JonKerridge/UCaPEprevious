@@ -1,11 +1,11 @@
 package c22.collector;
 
 import jcsp.lang.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
-import jcsp.net.mobile.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
+import jcsp.net2.mobile.*
 import groovyJCSP.*
-import phw.util.*;
+import jcsp.userIO.*;
 
 def nodeAddr = new TCPIPNodeAddress("127.0.0.2",3000)
 Node.getInstance().init (nodeAddr)

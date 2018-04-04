@@ -2,9 +2,9 @@ package c18.net
 
 // copyright 2012-13 Jon Kerridge
 // Let's Do It In Parallel
-import jcsp.net.*
+import jcsp.net2.*
 import jcsp.lang.*
-import jcsp.net.tcpip.*
+import jcsp.net2.tcpip.*
 import groovyJCSP.*
  
 class ForwardBackAgent implements MobileAgent {

@@ -2,10 +2,10 @@ package c18.net
  // copyright 2012-13 Jon Kerridge
 // Let's Do It In Parallel
 import jcsp.lang.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
 import groovyJCSP.*
-import phw.util.*
+import jcsp.userIO.*
 
 def rootIP = "127.0.0.1"
 def rootAddress = new TCPIPNodeAddress(rootIP, 3000)

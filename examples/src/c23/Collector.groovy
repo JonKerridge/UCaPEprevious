@@ -2,9 +2,9 @@ package c23
 
 import c23.loaderObjects.WorkerInterface;
 
-import jcsp.net.tcpip.TCPIPNodeAddress
-import jcsp.net.*
-import jcsp.net.mobile.*
+import jcsp.net2.tcpip.TCPIPNodeAddress
+import jcsp.net2.*
+import jcsp.net2.mobile.*
 import netObjects.*
 import groovyJCSP.*
 import jcsp.lang.*

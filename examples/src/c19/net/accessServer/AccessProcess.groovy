@@ -3,7 +3,7 @@ package c19.net.accessServer
 import jcsp.lang.*
 import jcsp.util.*
 import groovyJCSP.*
-import jcsp.net.*
+import jcsp.net2.*
 
 
 

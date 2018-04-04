@@ -1,6 +1,6 @@
 package c24.Distributed.hostNodeProcesses
 
-import phw.util.*
+import jcsp.userIO.*
 
 def runId = Ask.string("HOST: what is the run identifier for timing purposes?  ")
 def N = Ask.Int("What is the maximum number of words (N) in a sequence? (>=1) ", 1, 100)

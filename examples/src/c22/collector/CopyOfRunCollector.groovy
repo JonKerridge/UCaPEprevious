@@ -1,17 +1,17 @@
 package c22.collector;
 
 import jcsp.lang.*;
-import jcsp.net.*;
-import jcsp.net.tcpip.*;
-import jcsp.net.mobile.*;
+import jcsp.net2.*;
+import jcsp.net2.tcpip.*;
+import jcsp.net2.mobile.*;
 
 import groovyJCSP.*;
 
-import phw.util.*;
+import jcsp.userIO.*;
 
 
 /*
- * RunCollector creates port 3000 on its node.  The node’s IP address 
+ * RunCollector creates port 3000 on its node.  The nodeï¿½s IP address 
  * is then printed as this will be needed to inform the Base nodes.  
  * The any2one channel fromWorkers is created as a net2one channel 
  * because this is the reading end of the channel.  

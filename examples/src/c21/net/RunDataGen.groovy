@@ -2,10 +2,10 @@ package c21.net
   
     
 import jcsp.lang.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
 import groovyJCSP.*
-import phw.util.*
+import jcsp.userIO.*
 
 def nodeIP = "127.0.0.1"
 def nodeAddress = new TCPIPNodeAddress(nodeIP, 3000)

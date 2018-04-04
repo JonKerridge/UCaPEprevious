@@ -1,13 +1,13 @@
 package c23.MontecarloPi
 import c23.loaderObjects.*;
 
-import jcsp.net.tcpip.TCPIPNodeAddress
-import jcsp.net.*
-import jcsp.net.mobile.*
+import jcsp.net2.tcpip.TCPIPNodeAddress
+import jcsp.net2.*
+import jcsp.net2.mobile.*
 import c23.*
 import jcsp.lang.*
 import groovyJCSP.*
-import phw.util.*
+import jcsp.userIO.*
 
 def nodeAddr4 = Ask.Int( "what is the fourth part of the node's IP-address?  ", 2, 254)
 //println "running $args"

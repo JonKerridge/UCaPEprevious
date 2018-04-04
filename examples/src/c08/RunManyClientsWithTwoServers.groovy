@@ -4,7 +4,7 @@ package c08
 // Let's Do It In Parallel
 import groovyJCSP.*
 import jcsp.lang.*
-import phw.util.Ask
+import jcsp.userIO.Ask
 
 
 import c07.Client

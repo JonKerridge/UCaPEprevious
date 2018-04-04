@@ -2,9 +2,9 @@ package c15.net
 
 import jcsp.lang.*
 import groovyJCSP.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
-import phw.util.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
+import jcsp.userIO.*
 
 
 def receiverNodeIP = "127.0.0.1"

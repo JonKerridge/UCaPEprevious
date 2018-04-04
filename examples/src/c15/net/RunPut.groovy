@@ -2,10 +2,10 @@ package c15.net
 
 import jcsp.lang.*
 import groovyJCSP.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
-import jcsp.net.mobile.*;
-import phw.util.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
+import jcsp.net2.mobile.*;
+import jcsp.userIO.*
 
 def putNodeIP = "127.0.0.1"
 def getNodeIP = "127.0.0.2"

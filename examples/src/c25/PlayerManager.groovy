@@ -5,9 +5,9 @@ import groovyJCSP.*
 import jcsp.lang.*
 import java.awt.*
 import java.awt.Color.*
-import jcsp.net.*;
-import jcsp.net.tcpip.*;
-import jcsp.net.mobile.*;
+import jcsp.net2.*;
+import jcsp.net2.tcpip.*;
+import jcsp.net2.mobile.*;
 import java.awt.event.*
 
 class PlayerManager implements CSProcess {

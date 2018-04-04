@@ -3,13 +3,13 @@ import c23.loaderObjects.RequestWorker;
 import c23.loaderObjects.Signal;
 import c23.loaderObjects.WorkerObject;
 
-import jcsp.net.tcpip.TCPIPNodeAddress
-import jcsp.net.*
-import jcsp.net.mobile.*
+import jcsp.net2.tcpip.TCPIPNodeAddress
+import jcsp.net2.*
+import jcsp.net2.mobile.*
 //import c23.*
 import groovyJCSP.*
 import jcsp.lang.*
-import phw.util.*
+import jcsp.userIO.*
 
 def workers = 4
 def timer = new CSTimer()

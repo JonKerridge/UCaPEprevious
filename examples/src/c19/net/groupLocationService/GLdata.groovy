@@ -1,6 +1,6 @@
 package c19.net.groupLocationService
 
-import jcsp.net.*
+import jcsp.net2.*
 
 
 

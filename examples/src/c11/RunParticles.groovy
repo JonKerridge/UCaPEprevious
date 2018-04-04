@@ -5,7 +5,7 @@ package c11
 
 import groovyJCSP.*
 import jcsp.lang.*
-import phw.util.*
+import jcsp.userIO.*
 
 def  connect = Channel.any2one()
 def  update = Channel.any2one()

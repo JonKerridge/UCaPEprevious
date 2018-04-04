@@ -1,11 +1,11 @@
 package c22.worker;
 
 import jcsp.lang.*;
-import jcsp.net.*;
-import jcsp.net.tcpip.*;
-import jcsp.net.mobile.*;
+import jcsp.net2.*;
+import jcsp.net2.tcpip.*;
+import jcsp.net2.mobile.*;
 import groovyJCSP.*;
-import phw.util.*;
+import jcsp.userIO.*;
 
 
 /*

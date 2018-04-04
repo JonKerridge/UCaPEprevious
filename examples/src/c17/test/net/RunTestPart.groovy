@@ -3,8 +3,8 @@ package c17.test.net
 // Let's Do It In Parallel
 import jcsp.lang.*
 import groovyJCSP.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
 import groovyJCSP.util.*
 
 class RunTestPart extends GroovyTestCase {

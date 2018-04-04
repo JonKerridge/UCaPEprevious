@@ -5,7 +5,7 @@ import jcsp.lang.*
 import groovyJCSP.*
 import jcsp.awt.*
 import jcsp.util.*
-import phw.util.*
+import jcsp.userIO.*
 
 def delay = Ask.Int("Target visible period (2000 to 3500)?  ", 2000, 3500)
  

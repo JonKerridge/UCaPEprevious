@@ -5,7 +5,7 @@ package c13
 import jcsp.lang.*
 import groovyJCSP.*
 import groovyJCSP.plugAndPlay.*
-import phw.util.*
+import jcsp.userIO.*
 
 def nReaders = Ask.Int ( "Number of Readers ? ", 1, 5)
 def nWriters = Ask.Int ( "Number of Writers ? ", 1, 5)

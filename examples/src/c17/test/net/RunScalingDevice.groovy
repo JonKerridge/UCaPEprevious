@@ -4,8 +4,8 @@ package c17.test.net
 // Let's Do It In Parallel
 import jcsp.lang.*
 import groovyJCSP.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
 
 def testPartIP = "127.0.0.1"  
 def deviceIP = "127.0.0.2"

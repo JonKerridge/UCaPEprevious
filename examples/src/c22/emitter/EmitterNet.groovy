@@ -1,10 +1,10 @@
 package c22.emitter;
-import jcsp.net.NetChannel;
+import jcsp.net2.NetChannel;
 
 import jcsp.lang.*;
-import jcsp.net.*;
-import jcsp.net.tcpip.*;
-import jcsp.net.mobile.*;
+import jcsp.net2.*;
+import jcsp.net2.tcpip.*;
+import jcsp.net2.mobile.*;
 import c22.universalClasses.*
 
 class EmitterNet implements CSProcess {

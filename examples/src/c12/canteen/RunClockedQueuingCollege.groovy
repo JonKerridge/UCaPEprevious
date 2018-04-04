@@ -5,7 +5,7 @@ package c12.canteen
 
 import jcsp.lang.*
 import groovyJCSP.* 
-import phw.util.*
+import jcsp.userIO.*
  
 def philosophers = Ask.Int ("Number of Philosophers (>1)? ", 2, 9)
 

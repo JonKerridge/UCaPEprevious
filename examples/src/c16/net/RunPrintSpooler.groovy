@@ -3,9 +3,9 @@ package c16.net
 // Let's Do It In Parallel
 import jcsp.lang.*
 import groovyJCSP.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
-import phw.util.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
+import jcsp.userIO.*
 
 def spoolers = Ask.Int ("Number of spoolers ? ", 1, 9)
 

@@ -1,10 +1,10 @@
 package c19.net.groupLocationService
 
 import jcsp.lang.*
-import jcsp.net.*;
-import jcsp.net.tcpip.*
+import jcsp.net2.*;
+import jcsp.net2.tcpip.*
 import groovyJCSP.*
-import netObjects.*
+//import c19.net.netObjects
 
 
 def serverIP = "127.0.0.1"

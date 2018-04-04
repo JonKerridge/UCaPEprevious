@@ -3,9 +3,9 @@ package c16.net
 // Let's Do It In Parallel
 import jcsp.lang.*
 import groovyJCSP.*
-import jcsp.net.*
-import jcsp.net.tcpip.*
-import phw.util.*
+import jcsp.net2.*
+import jcsp.net2.tcpip.*
+import jcsp.userIO.*
 
 def printSpoolerIP = "127.0.0.1"
 def printUserIPmask = "127.0.0."

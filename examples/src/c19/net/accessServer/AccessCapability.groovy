@@ -1,7 +1,7 @@
 package c19.net.accessServer
 
 import jcsp.lang.*
-import jcsp.net.*
+import jcsp.net2.*
 import c19.net.netObjects.*
 
 

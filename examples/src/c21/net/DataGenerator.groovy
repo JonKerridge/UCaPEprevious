@@ -2,9 +2,9 @@ package c21.net
  
 import jcsp.lang.*
 import groovyJCSP.*
-import jcsp.net.*
-//import jcsp.net.cns.*
-//import jcsp.net.tcpip.*
+import jcsp.net2.*
+//import jcsp.net2.cns.*
+//import jcsp.net2.tcpip.*
 
 
 class DataGenerator implements CSProcess {
