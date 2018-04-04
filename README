@@ -11,11 +11,11 @@ and associate them with  the following libraries
 
 jcsp from
 groovyJCSP from https://github.com/JonKerridge/groovyJCSP
-phwclasses and junit from the folder libraryJars.
+
+you will also need to include junit.jar in the classpath
 
 You will need to ensure that the java and groovy version of the libraries match
-with the versions you are using in your IDE.  Jars from JCSP and groovyJCSP have been created for
-various versions and combinations of Java and Groovy.
+with the versions you are using in your IDE.
 
 It should be noted that the exercises package imports code from the examples package
 and this will need to be maintained in your IDE.
