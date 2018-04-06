@@ -1,4 +1,4 @@
-The UCaPE repository conatins the sources of all the examples and exercises
+The UCaPE repository contains the sources of all the examples and exercises
 used in the book "Using Concurrency and Parallelism Effectively parts i & ii"
 by Jon Kerridge published by Bookboon, free of charge.
 
@@ -14,10 +14,10 @@ groovyJCSP from https://github.com/JonKerridge/groovyJCSP
 
 you will also need to include junit.jar in the classpath
 
-You will need to ensure that the java and groovy version of the libraries match
+You will need to ensure that the java and groovy versions of the libraries match
 with the versions you are using in your IDE.
 
-It should be noted that the exercises package imports code from the examples package
+It should be noted that the exercises packages import code from the examples package
 and this will need to be maintained in your IDE.
 
 The line numbers shown in the code samples in the books will line up with the line numbers in your IDE.
@@ -25,4 +25,4 @@ The line numbers shown in the code samples in the books will line up with the li
 A simple test to ensure that the software has been installed correctly is:
 navigate from examples> src> c02> RunHelloWorld.groovy, which is a runnable script
 
-Use the IDE to run the script and 'Hello World!' should appear in the console (without the ').
+Use the IDE to run the script and 'Hello World!' should appear in the console.
