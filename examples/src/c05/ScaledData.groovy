@@ -1,8 +1,8 @@
 package c05;
    
     
-// copyright 2012-13 Jon Kerridge
-// Let's Do It In Parallel
+// copyright 2012-18 Jon Kerridge
+// Using Concurrency and Parallelism Effectively parts i & ii, 2014, bookboon.com
 
 
 
